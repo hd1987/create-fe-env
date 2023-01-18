@@ -5,7 +5,7 @@ const ESLintPlugin = require('eslint-webpack-plugin');
 
 module.exports = {
   entry: {
-    myProject: './src/index.js',
+    project_name: './src/index.js',
   },
   output: {
     filename: '[name].js',

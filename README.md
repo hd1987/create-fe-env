@@ -15,8 +15,8 @@ Use eslint standard
 
     dist (Automatically generated, example:)
     | example_page.bundle.js
-    | myProject.css
-    | myProject.js
+    | project_name.css
+    | project_name.js
     | ...
     node_modules
     | ...
